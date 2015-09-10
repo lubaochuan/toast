@@ -9,21 +9,5 @@ Bobby Sterling
 Blaise
 Shellie Austin
 Ruoxi Zhang
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Spencer Smith
+######Spencer Smith
+######Matt Shaffer
