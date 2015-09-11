@@ -7,3 +7,5 @@ Addison Woody
 Heather Vaughn
 Bobby Sterling
 Blaise
+Shellie Austin
+Ruoxi Zhang
